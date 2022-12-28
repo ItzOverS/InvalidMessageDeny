@@ -1,0 +1,5 @@
+name: InvalidMessageDeny
+version: '${project.version}'
+main: me.overlight.invalidmessagedeny.InvalidMessageDeny
+authors: [ _OverLight_ ]
+description: Deny what message user wants
